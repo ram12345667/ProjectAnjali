@@ -1,0 +1,11 @@
+public class anju
+{
+Public static void main(String[] args)
+{
+public void test2(){
+
+System.out.Println("Hello anjali madam tumch laksh ahe ka ?");
+System.out.Println("Hello anjali madam tumch laksh ahe ka ?");
+}
+}
+}
